@@ -1,5 +1,5 @@
 ## Exp-5 Interfacing Analog Output Servo Motor with Arduino
-### Date:26/03/2024
+### Date: 01/04/2024
 ### Name: PREMJI P
 ### Rollnumber:212221043004
 ### Department: CSE
